@@ -1,0 +1,13 @@
+minecraft:farmer
+minecraft:librarian
+minecraft:priest
+minecraft:smith
+minecraft:butcher
+minecraft:nitwit
+openblocks:radio
+oreberries:tinker
+sakura:wa_profession
+sakura:wa_silk
+forestry:apiarist
+forestry:arborist
+railcraft:trackman
