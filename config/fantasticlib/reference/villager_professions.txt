@@ -8,6 +8,6 @@ openblocks:radio
 oreberries:tinker
 sakura:wa_profession
 sakura:wa_silk
-forestry:apiarist
 forestry:arborist
+forestry:apiarist
 railcraft:trackman

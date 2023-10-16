@@ -2,3 +2,4 @@
 bc7a6f00-9961-3b46-8d27-f4d03cd9a30d = copro
 d13990e1-9465-32cc-89ec-eadd9ef0bfb5 = negr
 134fc265-1a6d-4036-a723-a1176afb8547 = swordily1
+c6e72bf8-a5c9-427a-8a20-332bd673f78b = Copronov
